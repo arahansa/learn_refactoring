@@ -15,7 +15,7 @@ public class Rental {
 		return movie;
 	}
 
-	public int get_daysRented() {
+	public int getDaysRented() {
 		return _daysRented;
 	}
 	
